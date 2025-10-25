@@ -1,0 +1,9 @@
+Rule,IF Customer Buys,THEN Also Buys,Support,Confidence,Lift,Leverage,Conviction,Priority Level,Recommended Action
+Cake → Tea,Cake,Tea,0.0408,0.2545,1.224,0.0075,1.063,LOW,Monitor for trends
+Tea → Cake,Tea,Cake,0.0408,0.1962,1.224,0.0075,1.045,LOW,Monitor for trends
+Coffee → Toast,Coffee,Toast,0.0406,0.0672,1.219,0.0073,1.013,LOW,Monitor for trends
+Toast → Coffee,Toast,Coffee,0.0406,0.7368,1.219,0.0073,1.503,MEDIUM,Good candidate for promotion
+Bread → Pastry,Bread,Pastry,0.05,0.1449,1.066,0.0031,1.01,LOW,Monitor for trends
+Pastry → Bread,Pastry,Bread,0.05,0.368,1.066,0.0031,1.036,LOW,Monitor for trends
+Medialuna → Coffee,Medialuna,Coffee,0.0604,0.6307,1.043,0.0025,1.071,LOW,Monitor for trends
+Coffee → Medialuna,Coffee,Medialuna,0.0604,0.0999,1.043,0.0025,1.005,LOW,Monitor for trends

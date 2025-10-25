@@ -1,0 +1,9 @@
+From Item,To Item,Support,Confidence,Lift,Priority,Relationship Strength
+Cake,Tea,0.0408,0.2545,1.224,LOW,Weak
+Tea,Cake,0.0408,0.1962,1.224,LOW,Weak
+Coffee,Toast,0.0406,0.0672,1.219,LOW,Weak
+Toast,Coffee,0.0406,0.7368,1.219,MEDIUM,Weak
+Bread,Pastry,0.05,0.1449,1.066,LOW,Weak
+Pastry,Bread,0.05,0.368,1.066,LOW,Weak
+Medialuna,Coffee,0.0604,0.6307,1.043,LOW,Weak
+Coffee,Medialuna,0.0604,0.0999,1.043,LOW,Weak

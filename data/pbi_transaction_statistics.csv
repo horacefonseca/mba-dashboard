@@ -1,0 +1,16 @@
+Metric,Value,Category
+Total Transactions,5517.0,Volume
+Total Items (Unique),92.0,Volume
+Total Association Rules,8.0,Rules
+High Priority Rules,0.0,Rules
+Medium Priority Rules,1.0,Rules
+Low Priority Rules,7.0,Rules
+Average Basket Size,2.71,Basket
+Median Basket Size,2.0,Basket
+Min Basket Size,2.0,Basket
+Max Basket Size,10.0,Basket
+Average Support,0.0479,Performance
+Average Confidence,0.3123,Performance
+Average Lift,1.138,Performance
+Max Lift,1.224,Performance
+Data Retention Rate,72.85,Data Quality
